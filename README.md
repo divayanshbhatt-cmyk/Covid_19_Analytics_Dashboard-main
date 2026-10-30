@@ -1,17 +1,6 @@
 # 🦠 COVID-19 Analytics Power BI Dashboard
 
-### 📘 College Project – BCA (Data Science + AI) in Collaboration with IBM  
-**Subject:** Data Analytics and Reporting  
-**Faculty Mentor:** Mr. Sukhmander Singh (IBM Faculty)
-
----
-
-## 👨‍💻 Team Members
-| Name | Roll Number |
-|------|--------------|
-| Ganesh Kumar Verma | 130 |
-| Abhash Mayank | 179 |
-| Raj Sharma | 129 |
+### 📘 College Project – BCA  
 
 ---
 ### 📊 Project Overview
@@ -60,28 +49,9 @@ It visualizes **confirmed cases, recoveries, deaths, and trends over time**, all
 
 ---
 
-## 👨‍🏫 Project Guidance
-
-This project was assigned and guided by **Mr. Sukhmander Singh (IBM Faculty)** as part of the **IBM Collaboration Program** under the subject *Data Analytics and Reporting.*  
-We express our gratitude for his support and mentorship throughout the project.
-
----
-
-## 👨‍💻 Authors
-
-**Team Members – BCA (Data Science + AI), Shri Ramswaroop Memorial University**
-
-| Name | Roll No. | Role | LinkedIn | Email |
-|------|-----------|------|-----------|--------|
-| **Ganesh Kumar Verma** | 130 | Data Cleaning, DAX Calculations | [LinkedIn](https://www.linkedin.com/in/ganesh-verma108/) | [bibekverma21@gmail.com](mailto:bibekverma21@gmail.com) |
-| **Abhash Mayank** | 179 | Data Modeling, Dashboard Design | [LinkedIn](https://www.linkedin.com/in/abhash-mayank-0347902b1/) | [mayankabhash12@gmail.com](mailto:mayankabhash12@gmail.com) |
-| **Raj Sharma** | 129 | Visualization & Report Structuring | [LinkedIn](#) | [raj6307529@gmail.com](mailto:raj6307529@gmail.com) |
-
----
-
 ## 🏆 Acknowledgments
 
-We sincerely thank **Shri Ramswaroop Memorial University** and **IBM Faculty Members** for providing us with the opportunity to work on this real-world analytics project, helping us enhance our practical understanding of data visualization and reporting using **Power BI**.
+We sincerely thank **Shri Ramswaroop Memorial University** and **Faculty Members** for providing us with the opportunity to work on this real-world analytics project, helping us enhance our practical understanding of data visualization and reporting using **Power BI**.
 
 
 ### 🖼️ Preview 
